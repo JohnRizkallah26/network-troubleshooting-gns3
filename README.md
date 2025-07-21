@@ -10,7 +10,6 @@ This project was completed for CYB-310 at SNHU. It involved diagnosing and resol
 ## Tools Used
 - GNS3
 - Cisco IOS
-- Linux CLI
 - Windows Network Tools
   
 
